@@ -1,0 +1,21 @@
+//PDOS MODULE V1.0a
+
+
+Setup:
+
+
+In P-DOS, type:
+
+write
+
+It will prompt you to type, but here are some tips.
+
+
+\n -- makes a new line
+
+
+\t -- makes a tab
+
+
+after typing, press enter, and it will give you an ID.
+Write it down in a text file.
